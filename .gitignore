@@ -1,0 +1,16 @@
+# Ignore Visual Studio files
+.vscode/
+bin/
+obj/
+
+# Ignore build artifacts
+*.dll
+*.exe
+
+# Ignore NuGet packages
+packages/
+
+# Ignore user-specific settings
+*.user
+*.suo
+*.userprefs
